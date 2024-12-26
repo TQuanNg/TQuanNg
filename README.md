@@ -35,7 +35,6 @@
     <td>
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" />
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"/>
-      <img src=https://github.com/uiwjs/file-icons/blob/master/icon/visualstudio.svg>
     </td>
   </tr>
 
