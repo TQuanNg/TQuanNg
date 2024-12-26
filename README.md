@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tan Nguyen</h1>
 <h3 align="center">A Software Engineer from Arizona, USA.</h3>
 
-- 🔭 I’m currently working on **Flight Booking System**
+- 🔭 I’m currently working on **Flight Booking System Project**
 
 - 🌱 I’m currently focusing on **Spring Boot, Node.js, Express.js, and advanced React to improve code maintainability and readability, aiming to meet industry standards**
 
