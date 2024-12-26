@@ -13,12 +13,12 @@
   <tr>
     <td>Programming Languages</td>
     <td>
-      <img src="https://github.com/gilbarbara/logos/blob/main/logos/c.svg" width="100px" height="50px"/>
-      <img src="https://github.com/gilbarbara/logos/blob/main/logos/c-plusplus.svg" width="100px" height="50px"/>
-      <img src="https://github.com/gilbarbara/logos/blob/main/logos/c-sharp.svg" width="100px" height="50px"/>
       <img src="https://github.com/gilbarbara/logos/blob/main/logos/java.svg" width="100px" height="50px"/>
       <img src="https://github.com/gilbarbara/logos/blob/main/logos/python.svg" width="100px" height="50px"/>
       <img src="https://github.com/gilbarbara/logos/blob/main/logos/javascript.svg" width="100px" height="50px"/>
+      <img src="https://github.com/gilbarbara/logos/blob/main/logos/c.svg" width="100px" height="50px"/>
+      <img src="https://github.com/gilbarbara/logos/blob/main/logos/c-plusplus.svg" width="100px" height="50px"/>
+      <img src="https://github.com/gilbarbara/logos/blob/main/logos/c-sharp.svg" width="100px" height="50px"/>
     </td>
   </tr>
 
