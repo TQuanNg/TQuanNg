@@ -52,6 +52,7 @@
     <td>
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"/>
       <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"/>
+      <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" />
     </td>
   </tr>
 
