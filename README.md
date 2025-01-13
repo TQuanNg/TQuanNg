@@ -61,7 +61,6 @@
       <img src="https://github.com/gilbarbara/logos/blob/main/logos/pandas.svg" width="100px" height="50px"/>
       <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"/>
       <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
      </td>
   </tr>
 <table>
