@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/tan-nguyen-13a109228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vien-le-1808b9198" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tan-nguyen-13a109228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tan-nguyen-13a109228" height="30" width="40" /></a>
 </p>
 <table>
   <tr>
