@@ -44,7 +44,7 @@
   <tr>
     <td>Mobile</td>
     <td>
-      <img src="https://github.com/gilbarbara/logos/blob/main/logos/flutter.svg" width="100px" height="50px"/>
+      <img src="https://github.com/gilbarbara/logos/blob/main/logos/kotlin-icon.svg" width="100px" height="50px"/>
     </td>
   </tr>
 
