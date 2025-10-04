@@ -2,7 +2,7 @@
 <h3 align="center">A Software Engineer from Arizona, USA.</h3>
 
 
-- 🌱 I’m currently focusing on **Spring Boot, Node.js, Express.js, and advanced React to improve code maintainability and readability, aiming to meet industry standards**
+- 🌱 I’m currently focusing on **Spring Boot and Kotlin to improve code maintainability and readability, aiming to meet industry standards**
 
 - 📫 You can reach me @ **<ntminhquan2106@gmail.com>**
 
