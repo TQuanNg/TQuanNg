@@ -34,10 +34,10 @@
   <tr>
     <td>Backend</td>
     <td>
+      <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" />
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" />
       <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" />
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"/>
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" />
     </td>
   </tr>
 
