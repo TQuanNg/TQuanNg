@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently focusing on **Spring Boot and Kotlin to improve code maintainability and readability, aiming to meet industry standards**
-- Bachelor's degree in Computer Science at @ASU Dec '25 🔱
+- 🎓 Bachelor's degree in Computer Science at @ASU Dec '25 🔱
 
 - 📫 You can reach me at:
 
