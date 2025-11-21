@@ -56,7 +56,6 @@
     <td>DevOps</td>
     <td>
       <img src="https://github.com/gilbarbara/logos/blob/main/logos/aws.svg" width="100px" height="50px"/>
-      <img src="https://github.com/gilbarbara/logos/blob/main/logos/google-cloud.svg" width="100px" height="50px"/>
       <img src="https://github.com/gilbarbara/logos/blob/main/logos/docker-icon.svg" width="100px" height="50px"/>
       <img src="https://github.com/gilbarbara/logos/blob/main/logos/linux-tux.svg" width="100px" height="50px"/>
     </td>
